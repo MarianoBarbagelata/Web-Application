@@ -1,0 +1,11 @@
+body {
+  background: #8E2DE2;  
+  background: -webkit-linear-gradient(to right, #141E30, #243B55); 
+  background: linear-gradient(to right, #141E30, #243B55); 
+}
+
+.form-group, .btn, .col-md-5, .col-md-7 {
+  margin: 5px;
+}
+
+
